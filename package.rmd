@@ -38,7 +38,7 @@ If you're planning on releasing your package, I think it's worth spending a few 
     * plyr is generalisation of the apply family, and evokes pliers.
     * lubridate makes dates and times easier.
     * knitr (knit + r) is "neater" than sweave (s + weave).
-    * testdat tests that data has the correct format.
+    * testthat tests that data has the correct format.
 
 * Use abbreviations: 
 
